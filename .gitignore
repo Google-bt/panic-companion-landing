@@ -25,4 +25,4 @@ dist-ssr
 .vercel
 
 # Validation tracker file
-validation_tracker
+validation_tracker.txt
